@@ -1,0 +1,5 @@
+7e7b5dac (Ronny Javier Roman Jimenez 2026-04-15 09:10:51 +0200  9)   return a - b - 1; // BUG intencionado
+
+git show 7e7b5dac
+
+Aprendi que el bug se introdujo en un commit especifico al modoficar esa linea, probablemente por un cambio incorrecto al restar.

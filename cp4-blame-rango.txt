@@ -1,0 +1,7 @@
+835aef03 (Ronny Javier Roman Jimenez 2026-04-15 09:07:41 +0200 5)   return a + b;
+835aef03 (Ronny Javier Roman Jimenez 2026-04-15 09:07:41 +0200 6) }
+835aef03 (Ronny Javier Roman Jimenez 2026-04-15 09:07:41 +0200 7) 
+835aef03 (Ronny Javier Roman Jimenez 2026-04-15 09:07:41 +0200 8) function restar(a, b) {
+7e7b5dac (Ronny Javier Roman Jimenez 2026-04-15 09:10:51 +0200 9)   return a - b - 1; // BUG intencionado
+
+Es util ya que reduce el ruido del resto del archivo y permite enfocarse solo en las lineas relevantes haciendolo mas facil identificarlo cuando y por que se introdujo un cambio especifico.

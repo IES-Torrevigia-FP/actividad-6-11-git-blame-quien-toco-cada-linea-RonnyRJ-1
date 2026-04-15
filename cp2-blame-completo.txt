@@ -1,0 +1,8 @@
+835aef03 (Ronny Javier Roman Jimenez 2026-04-15 09:07:41 +0200  8) function restar(a, b) {
+7e7b5dac (Ronny Javier Roman Jimenez 2026-04-15 09:10:51 +0200  9)   return a - b - 1; // BUG intencionado
+835aef03 (Ronny Javier Roman Jimenez 2026-04-15 09:07:41 +0200 10) }
+bc3c7303 (Ronny Javier Roman Jimenez 2026-04-15 09:08:34 +0200 11) 
+
+// TODO: añadir función dividir
+
+git blame nos da los informacion de quien y cuando semodifico un commit permitiendo saber el codigo de cada linea.
