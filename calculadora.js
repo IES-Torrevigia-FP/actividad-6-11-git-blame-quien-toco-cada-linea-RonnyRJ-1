@@ -12,3 +12,5 @@ function restar(a, b) {
 function multiplicar(a, b) {
   return a * b;
 }
+
+// TODO: añadir función dividir
